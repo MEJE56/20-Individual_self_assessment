@@ -1,4 +1,5 @@
 # 20-Individual_self_assessment
+## Jennifer Mejia
 
 In a nutshell, what has been done in this project was:
 Predict the price of a house, by correlating multiple attributes and the last sale price of a set of actual house in a given database, by using supervised regression model, and advance data analytics techniques and tool, such as python, jupyter notebook, SQL databases, and tableau visualizations.
